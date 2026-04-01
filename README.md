@@ -27,7 +27,7 @@ A simple web-based image editor built using HTML, CSS, and JavaScript.
 ## Project Purpose
 
 This project was created to provide a lightweight and easy-to-use image editing tool without requiring any login or installation.
-
+Note: PHP-based visit counter works only in local/server environment and not on GitHub Pages.
 ---
 
 ⭐ Feel free to explore and improve the project!
