@@ -9,16 +9,7 @@
     <link rel="stylesheet" href="css/all.min.css"/>
   </head>
   <body>
-    <?php
-    // PHP visit counter logic
-    $counterFile = "counter.txt";
-    if (!file_exists($counterFile)) {
-        file_put_contents($counterFile, 0);
-    }
-    $visitCount = (int) file_get_contents($counterFile);
-    $visitCount++;
-    file_put_contents($counterFile, $visitCount);
-    ?>
+    
     
     <!-- Display Visit Count -->
     <div class="visit-counter">
