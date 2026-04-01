@@ -2,6 +2,8 @@
 
 A simple web-based image editor built using HTML, CSS, and JavaScript.
 
+live demo: https://rajeshkumar-coder.github.io/Simple_image-editor/
+
 ## Features
 
 * Adjust brightness and saturation
